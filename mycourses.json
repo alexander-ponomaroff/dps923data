@@ -1,0 +1,21 @@
+{
+  "student": "Alexander Ponomaroff",
+  "version": "1.0.0",
+  "timestamp": "2019-09-17T10:23:17+0000",
+  "count": 13,
+  "data": [
+    { "id": 1, "courseCode": "BTE620", "courseName": "Law, Ethics & Social Responsibility" },
+    { "id": 2, "courseCode": "BTH645", "courseName": "Multimedia Elements" },
+    { "id": 3, "courseCode": "BTP600", "courseName": "Data Patterns In UML" },
+    { "id": 4, "courseCode": "BTS630", "courseName": "Project Implementation" },
+    { "id": 5, "courseCode": "DPS911", "courseName": "Open Source Project" },
+    { "id": 6, "courseCode": "WTP200", "courseName": "Work Term Preparation" },
+    { "id": 7, "courseCode": "BSD711", "courseName": "Software Development, Co-op" },
+    { "id": 8, "courseCode": "BTH745", "courseName": "Human-Computer Interaction" },
+    { "id": 9, "courseCode": "BTN710", "courseName": "Information Security" },
+    { "id": 10, "courseCode": "BAB235", "courseName": "Introduction to Marketing" },
+    { "id": 11, "courseCode": "DPS923", "courseName": "Mobile App Development - iOS" },
+    { "id": 12, "courseCode": "BTS730", "courseName": "Project Management Methodologies" },
+    { "id": 13, "courseCode": "WTR200", "courseName": "Work Term Reflection" }
+  ]
+}
